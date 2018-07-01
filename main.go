@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"singcl/go-simple/pkg/pack1"
+	"github.com/singcl/go-simple/pack1"
 )
 
 func main() {
