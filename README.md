@@ -3,5 +3,5 @@
 ## INSTALL
 
 ```bash
-go get github.com/singcl/pack1
+go get github.com/singcl/go-simple
 ```
